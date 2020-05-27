@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-color: #05FFFB ;
+}
+
+
+#cabeseraweb{
+    background-color: #00F;
+}
+
+
+#navegacionprincipal{
+    background-color: red;
+}
+
+
+#barralateral{
+    background-color: #0F0;
+    float: left;
+    height: 1430px;
+}
+
+
+#contenidoprincipal{
+    background-color: #606;
+    margin-left: 220px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+
+#pieprincipal{
+    background-color: #FF0;
+    clear: both;
+    margin-top: 10px;
+}
+
+li{
+    background-color: #FF0;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
